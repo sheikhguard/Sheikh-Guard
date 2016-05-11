@@ -1,0 +1,9 @@
+Building sheikhGuard
+
+See doc/readme-qt.rst for instructions on building sheikhGuard QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of sheikhGuard.
+
+See doc/build-*.txt for instructions on building sheikhGuardd,
+the intended-for-services, no-graphical-interface, reference
+implementation of sheikhGuard.
